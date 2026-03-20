@@ -24,9 +24,9 @@ I love tackling complex **challenges** in both front-end and back-end developmen
 <a href="mailto:decentcoderz@gmail.com" title="Email">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
-<a href="https://www.linkedin.com/in/decentcoders/" title="LinkedIn">
+<!-- <a href="https://www.linkedin.com/in/decentcoders/" title="LinkedIn">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-</a>
+</a> -->
 
 
 
